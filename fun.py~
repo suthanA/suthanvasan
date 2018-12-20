@@ -1,0 +1,14 @@
+def add(a,b):
+    print a+b
+def sub(a,b):
+    print a-b
+def mul(a,b):
+    print a*b
+def div(a,b):
+    print float(float(a)/float(b))
+num=5
+num1=5
+add(num,num1)
+sub(num,num1)
+mul(num,num1)
+div(num,num1)

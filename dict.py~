@@ -1,0 +1,4 @@
+students={1:"ram",2:"govimd",3:"krish"}
+print students
+print students[1]
+print len(students)
